@@ -8,7 +8,7 @@ import ReportIssue from "./pages/ReportIssue/ReportIssue";
 import LiveIssues from "./pages/LiveIssues/LiveIssues";
 import MyReports from "./pages/MyReports/MyReports";
 import Profile from "./pages/Profile/Profile";
-import Admin from "./pages/Admin/Admin";
+import Admin from "./pages/Admin/Dashboard";
 
 function App() {
   return (
